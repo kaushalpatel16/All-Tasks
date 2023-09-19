@@ -1,0 +1,116 @@
+.navtext{
+    text-decoration: none;
+    margin: 0px;
+
+}
+
+
+
+.navbar {
+    border-bottom: 2px solid #858585; /* Change the color and thickness as needed */
+}
+
+.navbar-nav {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+.person{
+    width: 45em;
+}
+
+.nav-link {
+    margin-left: 20px;
+  
+}
+.btn1{
+    border-radius: 40px;
+}
+
+.section1text1{
+    font-size: 3.3rem;
+    padding-top: 35%;
+}
+.sectiont1text2{
+    font-size:1.4rem;
+
+}
+
+
+.section2text1{
+    font-size: 3.3rem;
+    padding-top: 32%;
+}
+.section21text2{
+    font-size: 1.3rem;
+    
+}
+
+.section3text1{
+    font-size: 2.1rem;
+   
+}
+.sectiont3text2{
+    font-size: 1.1rem;
+}
+.section33{
+    padding-top:10% ;
+    padding-bottom: 5%;
+    
+}
+.section44{
+    padding-top:10% ;
+    padding-bottom: 20%;
+    
+}
+
+.section55{
+    padding-top:0% ;
+    padding-bottom: 10%;
+    
+}
+.section22{
+    padding-top: 11%;
+    padding-bottom:11%;
+}
+.section66{
+    padding-bottom:20%;
+}
+.map{
+    width: 40em;
+    padding-top: 5%;
+}
+.sec3col{
+    background-color: #3f3e3e;
+}
+.sec3row{
+    padding-top: 40px;
+
+}
+.h4150{
+   margin-left: 35px;
+}
+.carousel-control-prev-icon {
+    background-color: #ad2323 !important; /* Change this to your desired color, e.g., red */
+}
+.carousel-control-next-icon {
+    background-color: #ad2323 !important; /* Change this to your desired color, e.g., red */
+}
+
+
+.section4div1{
+    margin-left:15%;
+}
+.rounded-circle {
+    width: 3rem;
+}
+
+
+.section4svg{
+    color: white;
+}
+.section4chart{
+       
+        filter: brightness(0) invert(1);
+      
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="dashboard.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dashboard</title>
+    
+</head>
+<body>
+    <h1>Add new new data</h1>
+   <form id="product-form">
+    <label for="ProductId">Product Id : </label>
+    <input type="text" id="ProductId" required><br>
+
+    <label for ="ProductName">ProductName : </label>
+    <input type="text" id="ProductName" required><br>
+    
+    <label for="productImage">Image:</label>
+    <input type="file" id="productImage" accept="image/*"> 
+
+    <label for="Price">Price :</label>
+    <input type="number" id="ProductPrice"><br>
+
+    <label for="productDescription">Description:</label>
+    <textarea id="productDescription" required></textarea><br>
+
+    <button type="submit">Add Product</button>
+    </form>
+
+    <h1>to see product list click on Home</h1>
+    <a href="display.html">home</a>
+
+    <script src="addproduct.js"></script>
+
+</body>
+</html>
